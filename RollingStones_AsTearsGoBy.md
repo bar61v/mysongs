@@ -7,9 +7,11 @@ youTubeId: rK0CR3kUEsA
 
 
 Rythmique : 
+
 :::abc
 K:C treble style=rhythm
 A2 AA A2 AA |
+w: D  D U  D D U
 :::
 
 Verse 1
