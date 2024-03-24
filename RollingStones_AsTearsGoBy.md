@@ -9,9 +9,10 @@ youTubeId: rK0CR3kUEsA
 Rythmique : 
 
 :::abc
-K:C treble style=rhythm
-A2 AA A2 AA |
-w: D  D U  D D U
+M:4/4
+L: 1/8
+K:   perc stafflines=1
+BB BB BB BB 
 :::
 
 Verse 1
