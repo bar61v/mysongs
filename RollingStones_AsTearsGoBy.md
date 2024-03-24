@@ -15,7 +15,7 @@ K:   perc stafflines=1
 BB BB BB BB 
 :::
 
-Verse 1
+**Verse 1**
 
 c1: G     A     C        D
 l1: It is the evening of the day
@@ -23,22 +23,39 @@ l1: It is the evening of the day
 c1: G      A   C D
 l1: I sit and watch the children play
 
-c1: C          D         G   G/B.     Em
+c1: C          D         G   G/B     Em
 l1: Smiling faces I can see, but not for me
 
-c1: C
+c1: C       C          D          D7
 l1: I sit and watch as tears go by
 
+**Verse 2**
+
+c1: G     A     C        D
 l1: My riches can't buy everything
+
+c1: G     A     C        D
 l1: I want to hear the children sing
+
+c1: C          D         G   G/B     Em
 l1: All I hear is the sound of rain falling on the ground
+
+c1: C       C          D          D7
 l1: I sit and watch as tears go by
 
+**Verse 3**
 
-It is the evening of the day
-I sit and watch the children play
-Doing things I used to do, they think are new
-I sit and watch as tears go by
+c1: G     A     C        D
+l1: It is the evening of the day
+
+c1: G     A     C        D
+l1: I sit and watch the children play
+
+c1: C          D         G   G/B     Em
+l1: Doing things I used to do, they think are new
+
+c1: C       C          D          D7
+l1: I sit and watch as tears go by
 
 
 
