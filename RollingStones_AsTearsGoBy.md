@@ -3,11 +3,10 @@ youTubeId: rK0CR3kUEsA
 ---
 
 # As Tears Go by
-## The Rolling Stones (1963)
+## The Rolling Stones (1965)
 
 
-Rythmique : &VerticalBar; &boxdr;&boxdl;
-
+Rythmique :
 
 :::abc
 M:4/4
@@ -18,13 +17,13 @@ BB BB BB BB
 
 **Verse 1**
 
-c1: G     A     C        D
-l1: It is the evening of the day
+c1: G         A              C  D
+l1: It is the evening of the da-y
 
-c1: G      A   C D
-l1: I sit and watch the children play
+c1: G         A                  C   D
+l1: I sit and watch the children pla-y
 
-c1: C          D         G   G/B     Em
+c1: C          D         G   D/F#     Em
 l1: Smiling faces I can see, but not for me
 
 c1: C       C          D          D7
@@ -32,13 +31,13 @@ l1: I sit and watch as tears go by
 
 **Verse 2**
 
-c1: G     A     C        D
+c1: G         A         C       D
 l1: My riches can't buy everything
 
-c1: G     A     C        D
+c1: G         A         C        D
 l1: I want to hear the children sing
 
-c1: C          D         G   G/B     Em
+c1: C                 D         G     D/F#              Em
 l1: All I hear is the sound of rain falling on the ground
 
 c1: C       C          D          D7
@@ -46,13 +45,13 @@ l1: I sit and watch as tears go by
 
 **Verse 3**
 
-c1: G     A     C        D
-l1: It is the evening of the day
+c1: G         A              C  D
+l1: It is the evening of the da-y
 
-c1: G     A     C        D
-l1: I sit and watch the children play
+c1: G         A                  C   D
+l1: I sit and watch the children pla-y
 
-c1: C          D         G   G/B     Em
+c1: C          D         G   D/F#     Em
 l1: Doing things I used to do, they think are new
 
 c1: C       C          D          D7
@@ -60,29 +59,4 @@ l1: I sit and watch as tears go by
 
 
 
-c1: Em       Am       D7     B7
-l1: Oh la la la vie en rose
-
-c1: Em       C             Am       B7
-l1: Le rose qu'on nous propose
-
-c1: Em          Am            D7        B7
-l1: D'avoir des quantités d'choses
-
-c1: Em            C            Am       B7
-l1: Qui donnent envie d'autre chose.
-
-c1: Em       Am           D7        B7
-l1: Allez on nous fait croire
-
-c1: Em        C              Am       B7
-l1: Que le bonheur c'est d'avoir
-
-c1: Em         Am            D7        B7
-l1: de l'avoir plein nos armoires
-
-c1: Em         C            Am       B7
-l1: Dérision de nous dérisoire.
-
- 
 
