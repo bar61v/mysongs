@@ -1,13 +1,10 @@
 ---
+youTubeId: <rK0CR3kUEsA>
 ---
 
 # As Tears Go by
 ## The Rolling Stones (1963)
 
----
-youtube: rK0CR3kUEsA
-
----
 Verse 1
 
 c1: G     A     C        D
@@ -16,7 +13,7 @@ l1: It is the evening of the day
 c1: G      A   C D
 l1: I sit and watch the children play
 
-c1:
+## c1
 l1: Smiling faces I can see, but not for me
 l1: I sit and watch as tears go by
 
