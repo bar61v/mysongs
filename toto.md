@@ -1,5 +1,5 @@
 ---
-youTubeId: <2SQjE4ekAPQ>
+youTubeId: 2SQjE4ekAPQ
 ---
 
 # As Tears Go by
