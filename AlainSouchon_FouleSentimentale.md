@@ -6,7 +6,7 @@
 
 ------
 
-Rythmique: DUDUDUDU
+Rythmique : DUDUDUDU
 
 ------
 
