@@ -6,7 +6,11 @@
 
 ------
 
-Rythmique : DUDUDUDU
+Rythmique : 4/4 DUDUDUDU, accent sur les temps 2 et 4
+
+-------
+
+Couplet 1
 
 ------
 
