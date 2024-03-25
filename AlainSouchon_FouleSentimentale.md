@@ -6,7 +6,6 @@ youTubeID: 5IRPgzPZQl8
 ### Alain Souchon (1990)
 
 
-![image]{./souchon.jpg}
 
 c1: Em       Am       D7     B7
 l1: Oh la la la vie en rose
