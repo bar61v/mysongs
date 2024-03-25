@@ -1,18 +1,11 @@
 ---
-
+youTubeID: 5IRPgzPZQl8
 ---
 ## Foule Sentimentale 
 ### Alain Souchon (1990)
 
-------
 
-Rythmique : 4/4 DUDUDUDU, accent sur les temps 2 et 4
-
--------
-
-Couplet 1
-
-------
+![image]{./souchon.jpg}
 
 c1: Em       Am       D7     B7
 l1: Oh la la la vie en rose
